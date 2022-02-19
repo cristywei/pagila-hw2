@@ -4,3 +4,6 @@
  * HINT:
  * It's possible to solve this problem both with and without subqueries.
  */
+SELECT title
+FROM film
+WHERE 
